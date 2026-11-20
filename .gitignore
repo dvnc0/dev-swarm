@@ -1,0 +1,8 @@
+.context/
+.claude/
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+secrets*
